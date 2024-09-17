@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="select_place">Category %s</string>
+    <string name="place_details">Recommended Place</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="park">Parks</string>
+    <string name="museum">Museums</string>
+    <string name="shopping">Shopping</string>
+    <string name="label_back">Back Button</string>
+    <string name="navigation_rail">Navigation Rail</string>
+
+
+    <!-- Restaurantes -->
+    <string name="restaurant1_name">Restaurante 1</string>
+    <string name="restaurant1_description">Descripción del Restaurante 1</string>
+    <string name="restaurant2_name">Restaurante 2</string>
+    <string name="restaurant2_description">Descripción del Restaurante 2</string>
+    <string name="restaurant3_name">Restaurante 3</string>
+    <string name="restaurant3_description">Descripción del Restaurante 3</string>
+    <string name="restaurant4_name">Restaurante 4</string>
+    <string name="restaurant4_description">Descripción del Restaurante 4</string>
+    <string name="restaurant5_name">Restaurante 5</string>
+    <string name="restaurant5_description">Descripción del Restaurante 5</string>
+
+    <!-- Parques -->
+    <string name="park1_name">Parque 1</string>
+    <string name="park1_description">Descripción del Parque 1</string>
+    <string name="park2_name">Parque 2</string>
+    <string name="park2_description">Descripción del Parque 2</string>
+    <string name="park3_name">Parque 3</string>
+    <string name="park3_description">Descripción del Parque 3</string>
+    <string name="park4_name">Parque 4</string>
+    <string name="park4_description">Descripción del Parque 4</string>
+    <string name="park5_name">Parque 5</string>
+    <string name="park5_description">Descripción del Parque 5</string>
+
+    <!-- Museos -->
+    <string name="museum1_name">Museo 1</string>
+    <string name="museum1_description">Descripción del Museo 1</string>
+    <string name="museum2_name">Museo 2</string>
+    <string name="museum2_description">Descripción del Museo 2</string>
+    <string name="museum3_name">Museo 3</string>
+    <string name="museum3_description">Descripción del Museo 3</string>
+    <string name="museum4_name">Museo 4</string>
+    <string name="museum4_description">Descripción del Museo 4</string>
+    <string name="museum5_name">Museo 5</string>
+    <string name="museum5_description">Descripción del Museo 5</string>
+
+    <!-- Compras -->
+    <string name="shopping1_name">Centro Comercial 1</string>
+    <string name="shopping1_description">Descripción del Centro Comercial 1</string>
+    <string name="shopping2_name">Centro Comercial 2</string>
+    <string name="shopping2_description">Descripción del Centro Comercial 2</string>
+    <string name="shopping3_name">Centro Comercial 3</string>
+    <string name="shopping3_description">Descripción del Centro Comercial 3</string>
+    <string name="shopping4_name">Centro Comercial 4</string>
+    <string name="shopping4_description">Descripción del Centro Comercial 4</string>
+    <string name="shopping5_name">Centro Comercial 5</string>
+    <string name="shopping5_description">Descripción del Centro Comercial 5</string>
+</resources>
